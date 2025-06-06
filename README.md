@@ -44,6 +44,7 @@ Si encuentras un mejor enlace, un repack más ligero o un error en el JSON:
 
 > 📥 ¡Haz un pull request!  
 > ✍️ O abre un issue con respeto y claridad.
-
+> 
+https://avatars.githubusercontent.com/u/194052567?v=4
 
 

@@ -45,7 +45,7 @@ Si encuentras un mejor enlace, un repack más ligero o un error en el JSON:
 > 📥 ¡Haz un pull request!  
 > ✍️ O abre un issue con respeto y claridad.
 > 
-![SnowRoot Avatar](https://avatars.githubusercontent.com/u/194052567?v=4)
+![SnowRoot Avatar]([https://avatars.githubusercontent.com/u/194052567?v=4](https://cdn.discordapp.com/avatars/1283550118389223553/b376b186407568fae79c4ca50a43896b.png?size=2048))
 
 
 
